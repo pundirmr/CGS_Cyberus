@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WireframeWithTextureMaterial
+  m_Shader: {fileID: 4800000, guid: 4830795b319a0994487028ba16eafda6, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: b29cefeaea06fb743a528de74baf434b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ClipPoint: 0
+    m_Colors:
+    - _BaseColour: {r: 0.5566038, g: 0.48457274, b: 0, a: 0.2901961}
+    - _Colour: {r: 2.42798, g: 0.6584727, b: 0, a: 1}
+    - _WireframeColour: {r: 2, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []

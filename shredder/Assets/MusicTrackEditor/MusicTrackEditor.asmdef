@@ -1,0 +1,26 @@
+{
+    "name": "MusicTrackEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:093612eb363bbf94f99fba57984098c9",
+        "GUID:84c0506227d25844b8a5057f80c3a864",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

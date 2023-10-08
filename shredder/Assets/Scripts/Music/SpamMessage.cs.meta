@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 329c4e184a9740c2b6a83c5307162213
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wordui: {fileID: 8560673467746634317, guid: 0f7adea3d238fb0408212977a3fbf8bd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

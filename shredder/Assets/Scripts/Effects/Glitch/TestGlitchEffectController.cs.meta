@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e486d6ecea9f394fa05e01d4de2d19c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - digitalGlitchFeature: {fileID: -351866863596425179, guid: 61a5cda1e0419364bba985756b30fe09,
+      type: 2}
+  - analogGlitchFeature: {fileID: 5408432554583387061, guid: 61a5cda1e0419364bba985756b30fe09,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

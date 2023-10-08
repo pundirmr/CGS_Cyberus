@@ -1,0 +1,5 @@
+# Ignore Unity meta files - let each project generate their own
+#**.meta
+
+# MacOS
+**.DS_Store

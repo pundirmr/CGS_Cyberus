@@ -1,0 +1,602 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329c4e184a9740c2b6a83c5307162213, type: 3}
+  m_Name: SpamMessage04
+  m_EditorClassIdentifier: 
+  to: Winner!
+  from: lottery1.comp@msn.com
+  subject: 'Attention: Dear Winner!'
+  message: "We want to inform you concerning the payment of your Lottery compensation
+    winning prize ATM card worth $1.500,000.00 conducted today by the United Nations
+    (UN) in conjunction with the International Monetary Fund (IMF) and World Bank
+    Organizations (WBO) through a random selection of email addresses for this year
+    2022 compensation Lottery Promotion Program. \r\n\\n\r\nContact Name: Barr.Bray
+    Williams \r\n\\n\r\nE-mail Address: barr.braywilliams01@aliyun.com \r\n\\n\r\n1.
+    Your Full Name:  \r\n\\n\r\n2. Residential Address: \r\n\\n\r\n3. Phone Number: 
+    \r\n\\n\r\n4. Occupation:  \r\n\\n\r\n5. Gender/Sex:  \r\n\\n\r\n6. Age:  \r\n\\n\r\n7.
+    Full bank details: \r\n\\n\r\nCongratulations!!! \r\n\\n\r\nMr.Hart Leroy. \r\n\\n\r\n(Lottery
+    Compensation Promotion Director)  "
+  words:
+  - We
+  - want
+  - to
+  - inform
+  - you
+  - concerning
+  - the
+  - payment
+  - of
+  - your
+  - Lottery
+  - compensation
+  - winning
+  - prize
+  - ATM
+  - card
+  - worth
+  - $1.500,000.00
+  - conducted
+  - today
+  - by
+  - the
+  - United
+  - Nations
+  - (UN)
+  - in
+  - conjunction
+  - with
+  - the
+  - International
+  - Monetary
+  - Fund
+  - (IMF)
+  - and
+  - World
+  - Bank
+  - Organizations
+  - (WBO)
+  - through
+  - a
+  - random
+  - selection
+  - of
+  - email
+  - addresses
+  - for
+  - this
+  - year
+  - 2022
+  - compensation
+  - Lottery
+  - Promotion
+  - Program.
+  - Contact
+  - 'Name:'
+  - Barr.Bray
+  - Williams
+  - E-mail
+  - 'Address:'
+  - barr.braywilliams01@aliyun.com
+  - 1.
+  - Your
+  - Full
+  - 'Name:'
+  - 2.
+  - Residential
+  - 'Address:'
+  - 3.
+  - Phone
+  - 'Number:'
+  - 4.
+  - 'Occupation:'
+  - 5.
+  - 'Gender/Sex:'
+  - 6.
+  - 'Age:'
+  - 7.
+  - Full
+  - bank
+  - 'details:'
+  - Congratulations!!!
+  - Mr.Hart
+  - Leroy.
+  - (Lottery
+  - Compensation
+  - Promotion
+  - Director)
+  wordsWithoutPunctuation:
+  - We
+  - want
+  - to
+  - inform
+  - you
+  - concerning
+  - the
+  - payment
+  - of
+  - your
+  - Lottery
+  - compensation
+  - winning
+  - prize
+  - ATM
+  - card
+  - worth
+  - $1.500,000.00
+  - conducted
+  - today
+  - by
+  - the
+  - United
+  - Nations
+  - UN
+  - in
+  - conjunction
+  - with
+  - the
+  - International
+  - Monetary
+  - Fund
+  - IMF
+  - and
+  - World
+  - Bank
+  - Organizations
+  - WBO
+  - through
+  - a
+  - random
+  - selection
+  - of
+  - email
+  - addresses
+  - for
+  - this
+  - year
+  - 2022
+  - compensation
+  - Lottery
+  - Promotion
+  - Program
+  - Contact
+  - Name
+  - Barr.Bray
+  - Williams
+  - E-mail
+  - Address
+  - barr.braywilliams01@aliyun.com
+  - 1
+  - Your
+  - Full
+  - Name
+  - 2
+  - Residential
+  - Address
+  - 3
+  - Phone
+  - Number
+  - 4
+  - Occupation
+  - 5
+  - Gender/Sex
+  - 6
+  - Age
+  - 7
+  - Full
+  - bank
+  - details
+  - Congratulations
+  - Mr.Hart
+  - Leroy
+  - Lottery
+  - Compensation
+  - Promotion
+  - Director
+  uniqueWords:
+  - word: we
+    indices: 00000000
+  - word: want
+    indices: 01000000
+  - word: to
+    indices: 02000000
+  - word: inform
+    indices: 03000000
+  - word: you
+    indices: 04000000
+  - word: concerning
+    indices: 05000000
+  - word: the
+    indices: 06000000150000001c000000
+  - word: payment
+    indices: 07000000
+  - word: of
+    indices: 080000002a000000
+  - word: your
+    indices: 090000003d000000
+  - word: lottery
+    indices: 0a0000003200000053000000
+  - word: compensation
+    indices: 0b0000003100000054000000
+  - word: winning
+    indices: 0c000000
+  - word: prize
+    indices: 0d000000
+  - word: atm
+    indices: 0e000000
+  - word: card
+    indices: 0f000000
+  - word: worth
+    indices: 10000000
+  - word: $1.500,000.00
+    indices: 11000000
+  - word: conducted
+    indices: 12000000
+  - word: today
+    indices: 13000000
+  - word: by
+    indices: 14000000
+  - word: united
+    indices: 16000000
+  - word: nations
+    indices: 17000000
+  - word: un
+    indices: 18000000
+  - word: in
+    indices: 19000000
+  - word: conjunction
+    indices: 1a000000
+  - word: with
+    indices: 1b000000
+  - word: international
+    indices: 1d000000
+  - word: monetary
+    indices: 1e000000
+  - word: fund
+    indices: 1f000000
+  - word: imf
+    indices: 20000000
+  - word: and
+    indices: 21000000
+  - word: world
+    indices: 22000000
+  - word: bank
+    indices: 230000004e000000
+  - word: organizations
+    indices: 24000000
+  - word: wbo
+    indices: 25000000
+  - word: through
+    indices: 26000000
+  - word: a
+    indices: 27000000
+  - word: random
+    indices: 28000000
+  - word: selection
+    indices: 29000000
+  - word: email
+    indices: 2b000000
+  - word: addresses
+    indices: 2c000000
+  - word: for
+    indices: 2d000000
+  - word: this
+    indices: 2e000000
+  - word: year
+    indices: 2f000000
+  - word: 2022
+    indices: 30000000
+  - word: promotion
+    indices: 3300000055000000
+  - word: program
+    indices: 34000000
+  - word: contact
+    indices: 35000000
+  - word: name
+    indices: 360000003f000000
+  - word: barr.bray
+    indices: 37000000
+  - word: williams
+    indices: 38000000
+  - word: e-mail
+    indices: 39000000
+  - word: address
+    indices: 3a00000042000000
+  - word: barr.braywilliams01@aliyun.com
+    indices: 3b000000
+  - word: 1
+    indices: 3c000000
+  - word: full
+    indices: 3e0000004d000000
+  - word: 2
+    indices: 40000000
+  - word: residential
+    indices: 41000000
+  - word: 3
+    indices: 43000000
+  - word: phone
+    indices: 44000000
+  - word: number
+    indices: 45000000
+  - word: 4
+    indices: 46000000
+  - word: occupation
+    indices: 47000000
+  - word: 5
+    indices: 48000000
+  - word: gender/sex
+    indices: 49000000
+  - word: 6
+    indices: 4a000000
+  - word: age
+    indices: 4b000000
+  - word: 7
+    indices: 4c000000
+  - word: details
+    indices: 4f000000
+  - word: congratulations
+    indices: 50000000
+  - word: mr.hart
+    indices: 51000000
+  - word: leroy
+    indices: 52000000
+  - word: director
+    indices: 56000000
+  keyWords: 000000000000000000000101000001010101000000000101010000000001010101000101010100000000000000000000000001010100000000000001000001010001010001010001000100010001010100000001010101
+  wordui: {fileID: 8560673467746634317, guid: 0f7adea3d238fb0408212977a3fbf8bd, type: 3}
+  lineLength: 1800
+  spaceWidth: 15.389223
+  lines:
+  - 'We want to inform you concerning the payment of your Lottery compensation '
+  - 'winning prize ATM card worth $1.500,000.00 conducted today by the United '
+  - 'Nations (UN) in conjunction with the International Monetary Fund (IMF) and '
+  - 'World Bank Organizations (WBO) through a random selection of email addresses '
+  - 'for this year 2022 compensation Lottery Promotion Program. '
+  - 'Contact Name: Barr.Bray Williams '
+  - 'E-mail Address: barr.braywilliams01@aliyun.com '
+  - '1. Your Full Name: '
+  - '2. Residential Address: '
+  - '3. Phone Number: '
+  - '4. Occupation: '
+  - '5. Gender/Sex: '
+  - '6. Age: '
+  - '7. Full bank details: '
+  - 'Congratulations!!! '
+  - 'Mr.Hart Leroy. '
+  - '(Lottery Compensation Promotion Director) '
+  linesWithoutPunctuation:
+  - We want to inform you concerning the payment of your Lottery compensation
+  - 'winning prize ATM card worth $1.500,000.00 conducted today by the United '
+  - 'Nations (UN) in conjunction with the International Monetary Fund (IMF) and '
+  - 'World Bank Organizations (WBO) through a random selection of email addresses '
+  - 'for this year 2022 compensation Lottery Promotion Program. '
+  - 'Contact Name: Barr.Bray Williams '
+  - 'E-mail Address: barr.braywilliams01@aliyun.com '
+  - '1. Your Full Name: '
+  - '2. Residential Address: '
+  - '3. Phone Number: '
+  - '4. Occupation: '
+  - '5. Gender/Sex: '
+  - '6. Age: '
+  - '7. Full bank details: '
+  - 'Congratulations!!! '
+  - 'Mr.Hart Leroy. '
+  - 'Lottery Compensation Promotion Director) '
+  splitLines:
+  - line:
+    - We
+    - want
+    - to
+    - inform
+    - you
+    - concerning
+    - the
+    - payment
+    - of
+    - your
+    - Lottery
+    - compensation
+  - line:
+    - winning
+    - prize
+    - ATM
+    - card
+    - worth
+    - $1.500,000.00
+    - conducted
+    - today
+    - by
+    - the
+    - United
+  - line:
+    - Nations
+    - (UN)
+    - in
+    - conjunction
+    - with
+    - the
+    - International
+    - Monetary
+    - Fund
+    - (IMF)
+    - and
+  - line:
+    - World
+    - Bank
+    - Organizations
+    - (WBO)
+    - through
+    - a
+    - random
+    - selection
+    - of
+    - email
+    - addresses
+  - line:
+    - for
+    - this
+    - year
+    - 2022
+    - compensation
+    - Lottery
+    - Promotion
+    - Program.
+  - line:
+    - Contact
+    - 'Name:'
+    - Barr.Bray
+    - Williams
+  - line:
+    - E-mail
+    - 'Address:'
+    - barr.braywilliams01@aliyun.com
+  - line:
+    - 1.
+    - Your
+    - Full
+    - 'Name:'
+  - line:
+    - 2.
+    - Residential
+    - 'Address:'
+  - line:
+    - 3.
+    - Phone
+    - 'Number:'
+  - line:
+    - 4.
+    - 'Occupation:'
+  - line:
+    - 5.
+    - 'Gender/Sex:'
+  - line:
+    - 6.
+    - 'Age:'
+  - line:
+    - 7.
+    - Full
+    - bank
+    - 'details:'
+  - line:
+    - Congratulations!!!
+  - line:
+    - Mr.Hart
+    - Leroy.
+  - line:
+    - (Lottery
+    - Compensation
+    - Promotion
+    - Director)
+  splitLinesWithoutPunctuation:
+  - line:
+    - We
+    - want
+    - to
+    - inform
+    - you
+    - concerning
+    - the
+    - payment
+    - of
+    - your
+    - Lottery
+    - compensation
+  - line:
+    - winning
+    - prize
+    - ATM
+    - card
+    - worth
+    - $1.500,000.00
+    - conducted
+    - today
+    - by
+    - the
+    - United
+  - line:
+    - Nations
+    - UN
+    - in
+    - conjunction
+    - with
+    - the
+    - International
+    - Monetary
+    - Fund
+    - IMF
+    - and
+  - line:
+    - World
+    - Bank
+    - Organizations
+    - WBO
+    - through
+    - a
+    - random
+    - selection
+    - of
+    - email
+    - addresses
+  - line:
+    - for
+    - this
+    - year
+    - 2022
+    - compensation
+    - Lottery
+    - Promotion
+    - Program
+  - line:
+    - Contact
+    - Name
+    - Barr.Bray
+    - Williams
+  - line:
+    - E-mail
+    - Address
+    - barr.braywilliams01@aliyun.com
+  - line:
+    - 1
+    - Your
+    - Full
+    - Name
+  - line:
+    - 2
+    - Residential
+    - Address
+  - line:
+    - 3
+    - Phone
+    - Number
+  - line:
+    - 4
+    - Occupation
+  - line:
+    - 5
+    - Gender/Sex
+  - line:
+    - 6
+    - Age
+  - line:
+    - 7
+    - Full
+    - bank
+    - details
+  - line:
+    - Congratulations
+  - line:
+    - Mr.Hart
+    - Leroy
+  - line:
+    - Lottery
+    - Compensation
+    - Promotion
+    - Director

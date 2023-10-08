@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 703e3bb218cca4b459ad430f81b9d1f1, type: 3}
+  m_Name: MainMenu
+  m_EditorClassIdentifier: 
+  menuMusicEventName: TitleMusic
+  showSFXEventName: ShowSFX
+  hideSFXEventName: HideSfX
+  countDownSFXEventName: CountDownSFX
+  titleTransitionSFXEventName: TitleTransitionSFX
+  transitionInSFXEventName: AvatarTransitionIn
+  transitionOutSFXEventName: AvatarTransitionOut
+  newChosenSFXEventName: NewChosen
+  cyberusVOEventName: CyberusVO
+  sameChosenSFXEventName: SameChosen
+  avatarSelectVOEvent:
+    Guid:
+      Data1: 2110979240
+      Data2: 1303624057
+      Data3: -1407865416
+      Data4: -724995585
+    Path: event:/AvatarSelectScene/AvatarVO
+  cardsTransitionInSFXEventName: CardsTransitionIn
+  cardsTransitionOutSFXEventName: CardsTransitionOut
+  cardsScaleBackSFXEventName: CardsScaleBack
+  rouletteTickSFXEventName: RouletteTick
+  rouletteSelectedSFXEventName: RouletteSelected
+  gameMusicEvent:
+    Guid:
+      Data1: 958116546
+      Data2: 1233243468
+      Data3: 57009329
+      Data4: -1428676612
+    Path: event:/GameMusicTrack
+  preGameEmailMessageSFXEventName: PreGameEmailMessage
+  postGameEmailShowSFXEventName: PostGameEmailShow
+  postGameEmailHideSFXEventName: PostGameEmailHide
+  postGameEmailKeywordsSFXEventName: PostGameEmailKeywords
+  postGameEmailKeywordEnumerateSFXEventName: PostGameEmailKeywordEnumerate
+  postGameEmailStaticLoopEventName: PostGameEmailStaticLoop
+  postGameEmailClearedShowSFXEventName: PostGameEmailClearedShow
+  postGameEmailClearedHideSFXEventName: PostGameEmailClearedHide
+  warningClaxonSFXEventName: WarningSpam
+  searchingScanSFXEventName: Scan
+  spamAttackEvent:
+    Guid:
+      Data1: 1629051712
+      Data2: 1189700664
+      Data3: 1694203530
+      Data4: -429538169
+    Path: event:/GameScene/SpamAttackVO
+  clearLaneSFXEventName: ClearLane
+  heartAberrationSFXEvent:
+    Guid:
+      Data1: 1879500324
+      Data2: 1259662131
+      Data3: -1585211472
+      Data4: -1871513157
+    Path: event:/GameScene/HeartLost
+  difficultyChangeSFXEventName: DifficultyChange
+  postGameBackgroundMusicLoopEvent:
+    Guid:
+      Data1: -961177369
+      Data2: 1216739230
+      Data3: -1502707831
+      Data4: 2031018519
+    Path: event:/BackgroundMusicLoop
+  playerResultsTransitionSFXEventName: PlayerResults
+  playerResultsEnumerateSFXEventName: RankingRise
+  moveLaserOffScreenSFXEventName: MoveLaserOffScreen
+  staticStopSFXEventName: StopRise
+  barsSFXEventName: Bars
+  playerJoinedVOEventName: PlayerJoinedVO
+  playerDisconnectedVOEventName: PlayerDisconnected

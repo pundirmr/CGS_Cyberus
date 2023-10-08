@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LaserEffectMat
+  m_Shader: {fileID: -6465566751694194690, guid: 2b11240135f222842af02756d4e30dd5,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _ALPHATEST_ON
+  - _SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords:
+  - _EMISSION
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - DepthOnly
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 1
+    - _Amplitude: 7.52
+    - _AmplitudeOne: 500
+    - _AmplitudeThree: 500
+    - _AmplitudeTwo: 500
+    - _Blend: 2
+    - _BlendModePreserveSpecular: 0
+    - _CastShadows: 1
+    - _ClipPoint: -5
+    - _Cull: 2
+    - _DstBlend: 1
+    - _EchoDistance: 1.045
+    - _EdgeThickness: 5
+    - _Frequency: 17.7
+    - _FrequencyOffset: 0
+    - _FrequencyOffsetOne: -0.97
+    - _FrequencyOffsetThree: 0.31
+    - _FrequencyOffsetTwo: 0
+    - _FrequencyOne: 10
+    - _FrequencyThree: 10
+    - _FrequencyTwo: 10
+    - _HeightOffset: 0.5
+    - _Intensity: 2
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _RemapSize: 3.23
+    - _RemapStart: 0.479
+    - _ScrollSpeed: 0.75
+    - _Size: 0.162
+    - _SizeOne: 0.342
+    - _SizeThree: 0.342
+    - _SizeTwo: 0.388
+    - _Smoothing: 2
+    - _SrcBlend: 5
+    - _StartPoint: 0.633
+    - _StartPointOne: 0.191
+    - _StartPointThree: 0.778
+    - _StartPointTwo: 0.529
+    - _Surface: 1
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _ZWriteControl: 0
+    m_Colors:
+    - _AlphaClipPoint: {r: 12.47, g: -7.35, b: 0, a: 0}
+    - _ColourOne: {r: 0, g: 0.050980568, b: 1, a: 1}
+    - _ColourOneHDR: {r: 0, g: 0.7830189, b: 0.3316315, a: 1}
+    - _ColourThree: {r: 0, g: 0.9935894, b: 1, a: 1}
+    - _ColourThreeHDR: {r: 0, g: 0, b: 1, a: 0}
+    - _ColourTwo: {r: 0.9786186, g: 0, b: 1, a: 1}
+    - _ColourTwoHDR: {r: 0, g: 1, b: 0, a: 0}
+    - _TestVector: {r: -1.52, g: 0.51, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &822435840071941713
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 6

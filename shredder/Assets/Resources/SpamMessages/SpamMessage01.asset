@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329c4e184a9740c2b6a83c5307162213, type: 3}
+  m_Name: SpamMessage01
+  m_EditorClassIdentifier: 
+  to: '[3406 Recepients]'
+  from: l3git$eller@realD0ma1n.com
+  subject: 'FBI: You owe money.'
+  message: 'Dear recipient, \n
+
+    The Federal Bureau of Investigation (FBI) has
+    discovered through our intelligence Monitoring Network that you eligible to receive
+    the sum of $2,000,000.00 USD from the National Lottery Program. Reply with your
+    bank number, sort code and CVV to recieve your payment. \n
+
+    Regards Barrister
+    Name.'
+  words:
+  - Dear
+  - recipient,
+  - The
+  - Federal
+  - Bureau
+  - of
+  - Investigation
+  - (FBI)
+  - has
+  - discovered
+  - through
+  - our
+  - intelligence
+  - Monitoring
+  - Network
+  - that
+  - you
+  - eligible
+  - to
+  - receive
+  - the
+  - sum
+  - of
+  - $2,000,000.00
+  - USD
+  - from
+  - the
+  - National
+  - Lottery
+  - Program.
+  - Reply
+  - with
+  - your
+  - bank
+  - number,
+  - sort
+  - code
+  - and
+  - CVV
+  - to
+  - recieve
+  - your
+  - payment.
+  - Regards
+  - Barrister
+  - Name.
+  wordsWithoutPunctuation:
+  - Dear
+  - recipient
+  - The
+  - Federal
+  - Bureau
+  - of
+  - Investigation
+  - FBI
+  - has
+  - discovered
+  - through
+  - our
+  - intelligence
+  - Monitoring
+  - Network
+  - that
+  - you
+  - eligible
+  - to
+  - receive
+  - the
+  - sum
+  - of
+  - $2,000,000.00
+  - USD
+  - from
+  - the
+  - National
+  - Lottery
+  - Program
+  - Reply
+  - with
+  - your
+  - bank
+  - number
+  - sort
+  - code
+  - and
+  - CVV
+  - to
+  - recieve
+  - your
+  - payment
+  - Regards
+  - Barrister
+  - Name
+  uniqueWords:
+  - word: dear
+    indices: 00000000
+  - word: recipient
+    indices: 01000000
+  - word: the
+    indices: 02000000140000001a000000
+  - word: federal
+    indices: 03000000
+  - word: bureau
+    indices: 04000000
+  - word: of
+    indices: 0500000016000000
+  - word: investigation
+    indices: 06000000
+  - word: fbi
+    indices: 07000000
+  - word: has
+    indices: 08000000
+  - word: discovered
+    indices: 09000000
+  - word: through
+    indices: 0a000000
+  - word: our
+    indices: 0b000000
+  - word: intelligence
+    indices: 0c000000
+  - word: monitoring
+    indices: 0d000000
+  - word: network
+    indices: 0e000000
+  - word: that
+    indices: 0f000000
+  - word: you
+    indices: 10000000
+  - word: eligible
+    indices: 11000000
+  - word: to
+    indices: 1200000027000000
+  - word: receive
+    indices: 13000000
+  - word: sum
+    indices: 15000000
+  - word: $2,000,000.00
+    indices: 17000000
+  - word: usd
+    indices: 18000000
+  - word: from
+    indices: 19000000
+  - word: national
+    indices: 1b000000
+  - word: lottery
+    indices: 1c000000
+  - word: program
+    indices: 1d000000
+  - word: reply
+    indices: 1e000000
+  - word: with
+    indices: 1f000000
+  - word: your
+    indices: 2000000029000000
+  - word: bank
+    indices: 21000000
+  - word: number
+    indices: 22000000
+  - word: sort
+    indices: 23000000
+  - word: code
+    indices: 24000000
+  - word: and
+    indices: 25000000
+  - word: cvv
+    indices: 26000000
+  - word: recieve
+    indices: 28000000
+  - word: payment
+    indices: 2a000000
+  - word: regards
+    indices: 2b000000
+  - word: barrister
+    indices: 2c000000
+  - word: name
+    indices: 2d000000
+  keyWords: 00000001010101000000000000000000010100000000000101000001010100000001010101000100000000000000
+  wordui: {fileID: 8560673467746634317, guid: 0f7adea3d238fb0408212977a3fbf8bd, type: 3}
+  lineLength: 1800
+  spaceWidth: 15.389223
+  lines:
+  - 'Dear recipient, '
+  - 'The Federal Bureau of Investigation (FBI) has discovered through our '
+  - 'intelligence Monitoring Network that you eligible to receive the sum of '
+  - '$2,000,000.00 USD from the National Lottery Program. Reply with your bank '
+  - 'number, sort code and CVV to recieve your payment. '
+  - 'Regards Barrister Name. '
+  linesWithoutPunctuation:
+  - 'Dear recipient, '
+  - 'The Federal Bureau of Investigation (FBI) has discovered through our '
+  - intelligence Monitoring Network that you eligible to receive the sum of
+  - '$2,000,000.00 USD from the National Lottery Program. Reply with your bank '
+  - 'number, sort code and CVV to recieve your payment. '
+  - 'Regards Barrister Name. '
+  splitLines:
+  - line:
+    - Dear
+    - recipient,
+  - line:
+    - The
+    - Federal
+    - Bureau
+    - of
+    - Investigation
+    - (FBI)
+    - has
+    - discovered
+    - through
+    - our
+  - line:
+    - intelligence
+    - Monitoring
+    - Network
+    - that
+    - you
+    - eligible
+    - to
+    - receive
+    - the
+    - sum
+    - of
+  - line:
+    - $2,000,000.00
+    - USD
+    - from
+    - the
+    - National
+    - Lottery
+    - Program.
+    - Reply
+    - with
+    - your
+    - bank
+  - line:
+    - number,
+    - sort
+    - code
+    - and
+    - CVV
+    - to
+    - recieve
+    - your
+    - payment.
+  - line:
+    - Regards
+    - Barrister
+    - Name.
+  splitLinesWithoutPunctuation:
+  - line:
+    - Dear
+    - recipient
+  - line:
+    - The
+    - Federal
+    - Bureau
+    - of
+    - Investigation
+    - FBI
+    - has
+    - discovered
+    - through
+    - our
+  - line:
+    - intelligence
+    - Monitoring
+    - Network
+    - that
+    - you
+    - eligible
+    - to
+    - receive
+    - the
+    - sum
+    - of
+  - line:
+    - $2,000,000.00
+    - USD
+    - from
+    - the
+    - National
+    - Lottery
+    - Program
+    - Reply
+    - with
+    - your
+    - bank
+  - line:
+    - number
+    - sort
+    - code
+    - and
+    - CVV
+    - to
+    - recieve
+    - your
+    - payment
+  - line:
+    - Regards
+    - Barrister
+    - Name

@@ -1,0 +1,570 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329c4e184a9740c2b6a83c5307162213, type: 3}
+  m_Name: SpamMessage02
+  m_EditorClassIdentifier: 
+  to: '[3406 Recepients]'
+  from: Daniel Kabore
+  subject: I need your urgent assistance
+  message: "Hi friend, I am a banker in AFDB BANK. I want to transfer an abandoned
+    $18.5 Million to your Bank account. 40/percent will be your share. No risk involved
+    but keeps it a secret. Contact me for more details. And also acknowledge receipt
+    of this message in acceptance of my mutual business endeavor by furnishing me
+    with the following: \r\n\\n\r\n1. Your Full Names and Address. \r\n\\n\r\n2.
+    Direct Telephone and Fax numbers. \\n\r\nPlease reply in my private email address
+    (daniel.kabore09574@gmail.com) for security and confidential reasons. \r\nYours
+    \r\nMr. Daniel Kabore "
+  words:
+  - Hi
+  - friend,
+  - I
+  - am
+  - a
+  - banker
+  - in
+  - AFDB
+  - BANK.
+  - I
+  - want
+  - to
+  - transfer
+  - an
+  - abandoned
+  - $18.5
+  - Million
+  - to
+  - your
+  - Bank
+  - account.
+  - 40/percent
+  - will
+  - be
+  - your
+  - share.
+  - No
+  - risk
+  - involved
+  - but
+  - keeps
+  - it
+  - a
+  - secret.
+  - Contact
+  - me
+  - for
+  - more
+  - details.
+  - And
+  - also
+  - acknowledge
+  - receipt
+  - of
+  - this
+  - message
+  - in
+  - acceptance
+  - of
+  - my
+  - mutual
+  - business
+  - endeavor
+  - by
+  - furnishing
+  - me
+  - with
+  - the
+  - 'following:'
+  - 1.
+  - Your
+  - Full
+  - Names
+  - and
+  - Address.
+  - 2.
+  - Direct
+  - Telephone
+  - and
+  - Fax
+  - numbers.
+  - Please
+  - reply
+  - in
+  - my
+  - private
+  - email
+  - address
+  - (daniel.kabore09574@gmail.com)
+  - for
+  - security
+  - and
+  - confidential
+  - reasons.
+  - Yours
+  - Mr.
+  - Daniel
+  - Kabore
+  wordsWithoutPunctuation:
+  - Hi
+  - friend
+  - I
+  - am
+  - a
+  - banker
+  - in
+  - AFDB
+  - BANK
+  - I
+  - want
+  - to
+  - transfer
+  - an
+  - abandoned
+  - $18.5
+  - Million
+  - to
+  - your
+  - Bank
+  - account
+  - 40/percent
+  - will
+  - be
+  - your
+  - share
+  - No
+  - risk
+  - involved
+  - but
+  - keeps
+  - it
+  - a
+  - secret
+  - Contact
+  - me
+  - for
+  - more
+  - details
+  - And
+  - also
+  - acknowledge
+  - receipt
+  - of
+  - this
+  - message
+  - in
+  - acceptance
+  - of
+  - my
+  - mutual
+  - business
+  - endeavor
+  - by
+  - furnishing
+  - me
+  - with
+  - the
+  - following
+  - 1
+  - Your
+  - Full
+  - Names
+  - and
+  - Address
+  - 2
+  - Direct
+  - Telephone
+  - and
+  - Fax
+  - numbers
+  - Please
+  - reply
+  - in
+  - my
+  - private
+  - email
+  - address
+  - daniel.kabore09574@gmail.com
+  - for
+  - security
+  - and
+  - confidential
+  - reasons
+  - Yours
+  - Mr
+  - Daniel
+  - Kabore
+  uniqueWords:
+  - word: hi
+    indices: 00000000
+  - word: friend
+    indices: 01000000
+  - word: i
+    indices: 0200000009000000
+  - word: am
+    indices: 03000000
+  - word: a
+    indices: 0400000020000000
+  - word: banker
+    indices: 05000000
+  - word: in
+    indices: 060000002e00000049000000
+  - word: afdb
+    indices: 07000000
+  - word: bank
+    indices: 0800000013000000
+  - word: want
+    indices: 0a000000
+  - word: to
+    indices: 0b00000011000000
+  - word: transfer
+    indices: 0c000000
+  - word: an
+    indices: 0d000000
+  - word: abandoned
+    indices: 0e000000
+  - word: $18.5
+    indices: 0f000000
+  - word: million
+    indices: 10000000
+  - word: your
+    indices: 12000000180000003c000000
+  - word: account
+    indices: 14000000
+  - word: 40/percent
+    indices: 15000000
+  - word: will
+    indices: 16000000
+  - word: be
+    indices: 17000000
+  - word: share
+    indices: 19000000
+  - word: no
+    indices: 1a000000
+  - word: risk
+    indices: 1b000000
+  - word: involved
+    indices: 1c000000
+  - word: but
+    indices: 1d000000
+  - word: keeps
+    indices: 1e000000
+  - word: it
+    indices: 1f000000
+  - word: secret
+    indices: 21000000
+  - word: contact
+    indices: 22000000
+  - word: me
+    indices: 2300000037000000
+  - word: for
+    indices: 240000004f000000
+  - word: more
+    indices: 25000000
+  - word: details
+    indices: 26000000
+  - word: and
+    indices: 270000003f0000004400000051000000
+  - word: also
+    indices: 28000000
+  - word: acknowledge
+    indices: 29000000
+  - word: receipt
+    indices: 2a000000
+  - word: of
+    indices: 2b00000030000000
+  - word: this
+    indices: 2c000000
+  - word: message
+    indices: 2d000000
+  - word: acceptance
+    indices: 2f000000
+  - word: my
+    indices: 310000004a000000
+  - word: mutual
+    indices: 32000000
+  - word: business
+    indices: 33000000
+  - word: endeavor
+    indices: 34000000
+  - word: by
+    indices: 35000000
+  - word: furnishing
+    indices: 36000000
+  - word: with
+    indices: 38000000
+  - word: the
+    indices: 39000000
+  - word: following
+    indices: 3a000000
+  - word: 1
+    indices: 3b000000
+  - word: full
+    indices: 3d000000
+  - word: names
+    indices: 3e000000
+  - word: address
+    indices: 400000004d000000
+  - word: 2
+    indices: 41000000
+  - word: direct
+    indices: 42000000
+  - word: telephone
+    indices: 43000000
+  - word: fax
+    indices: 45000000
+  - word: numbers
+    indices: 46000000
+  - word: please
+    indices: 47000000
+  - word: reply
+    indices: 48000000
+  - word: private
+    indices: 4b000000
+  - word: email
+    indices: 4c000000
+  - word: daniel.kabore09574@gmail.com
+    indices: 4e000000
+  - word: security
+    indices: 50000000
+  - word: confidential
+    indices: 52000000
+  - word: reasons
+    indices: 53000000
+  - word: yours
+    indices: 54000000
+  - word: mr
+    indices: 55000000
+  - word: daniel
+    indices: 56000000
+  - word: kabore
+    indices: 57000000
+  keyWords: 00000000000000010100000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010100010000010000000000000001010001000101010000000000
+  wordui: {fileID: 8560673467746634317, guid: 0f7adea3d238fb0408212977a3fbf8bd, type: 3}
+  lineLength: 1800
+  spaceWidth: 15.389223
+  lines:
+  - 'Hi friend, I am a banker in AFDB BANK. I want to transfer an abandoned $18.5 '
+  - 'Million to your Bank account. 40/percent will be your share. No risk involved
+    but keeps '
+  - 'it a secret. Contact me for more details. And also acknowledge receipt of this '
+  - 'message in acceptance of my mutual business endeavor by furnishing me with the '
+  - 'following: '
+  - '1. Your Full Names and Address. '
+  - '2. Direct Telephone and Fax numbers. '
+  - 'Please reply in my private email address (daniel.kabore09574@gmail.com) for '
+  - 'security and confidential reasons. Yours Mr. Daniel Kabore '
+  linesWithoutPunctuation:
+  - 'Hi friend, I am a banker in AFDB BANK. I want to transfer an abandoned $18.5 '
+  - 'Million to your Bank account. 40/percent will be your share. No risk involved
+    but keeps '
+  - 'it a secret. Contact me for more details. And also acknowledge receipt of this '
+  - message in acceptance of my mutual business endeavor by furnishing me with the
+  - 'following: '
+  - '1. Your Full Names and Address. '
+  - '2. Direct Telephone and Fax numbers. '
+  - 'Please reply in my private email address (daniel.kabore09574@gmail.com) for '
+  - 'security and confidential reasons. Yours Mr. Daniel Kabore '
+  splitLines:
+  - line:
+    - Hi
+    - friend,
+    - I
+    - am
+    - a
+    - banker
+    - in
+    - AFDB
+    - BANK.
+    - I
+    - want
+    - to
+    - transfer
+    - an
+    - abandoned
+    - $18.5
+  - line:
+    - Million
+    - to
+    - your
+    - Bank
+    - account.
+    - 40/percent
+    - will
+    - be
+    - your
+    - share.
+    - No
+    - risk
+    - involved
+    - but
+    - keeps
+  - line:
+    - it
+    - a
+    - secret.
+    - Contact
+    - me
+    - for
+    - more
+    - details.
+    - And
+    - also
+    - acknowledge
+    - receipt
+    - of
+    - this
+  - line:
+    - message
+    - in
+    - acceptance
+    - of
+    - my
+    - mutual
+    - business
+    - endeavor
+    - by
+    - furnishing
+    - me
+    - with
+    - the
+  - line:
+    - 'following:'
+  - line:
+    - 1.
+    - Your
+    - Full
+    - Names
+    - and
+    - Address.
+  - line:
+    - 2.
+    - Direct
+    - Telephone
+    - and
+    - Fax
+    - numbers.
+  - line:
+    - Please
+    - reply
+    - in
+    - my
+    - private
+    - email
+    - address
+    - (daniel.kabore09574@gmail.com)
+    - for
+  - line:
+    - security
+    - and
+    - confidential
+    - reasons.
+    - Yours
+    - Mr.
+    - Daniel
+    - Kabore
+  splitLinesWithoutPunctuation:
+  - line:
+    - Hi
+    - friend
+    - I
+    - am
+    - a
+    - banker
+    - in
+    - AFDB
+    - BANK
+    - I
+    - want
+    - to
+    - transfer
+    - an
+    - abandoned
+    - $18.5
+  - line:
+    - Million
+    - to
+    - your
+    - Bank
+    - account
+    - 40/percent
+    - will
+    - be
+    - your
+    - share
+    - No
+    - risk
+    - involved
+    - but
+    - keeps
+  - line:
+    - it
+    - a
+    - secret
+    - Contact
+    - me
+    - for
+    - more
+    - details
+    - And
+    - also
+    - acknowledge
+    - receipt
+    - of
+    - this
+  - line:
+    - message
+    - in
+    - acceptance
+    - of
+    - my
+    - mutual
+    - business
+    - endeavor
+    - by
+    - furnishing
+    - me
+    - with
+    - the
+  - line:
+    - following
+  - line:
+    - 1
+    - Your
+    - Full
+    - Names
+    - and
+    - Address
+  - line:
+    - 2
+    - Direct
+    - Telephone
+    - and
+    - Fax
+    - numbers
+  - line:
+    - Please
+    - reply
+    - in
+    - my
+    - private
+    - email
+    - address
+    - daniel.kabore09574@gmail.com
+    - for
+  - line:
+    - security
+    - and
+    - confidential
+    - reasons
+    - Yours
+    - Mr
+    - Daniel
+    - Kabore

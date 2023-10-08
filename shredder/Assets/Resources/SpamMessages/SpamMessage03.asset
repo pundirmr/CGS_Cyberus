@@ -1,0 +1,533 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329c4e184a9740c2b6a83c5307162213, type: 3}
+  m_Name: SpamMessage03
+  m_EditorClassIdentifier: 
+  to: uwe.ac.uk
+  from: it.uwe@gmail.com
+  subject: 'uwe.ac.uk Server Message: Shutdown Request Received'
+  message: "We received an instruction few hours ago to terminate your email account
+    on uwe.ac.uk server.  \r\n\\n\r\nYou need to confirm you made this request or
+    we will continue with the request. But if you think it is an error, take action
+    immediately to stop this process, else your email will be closed shortly.  \r\n\\n\r\nClick
+    here to Stop shutdown. \r\n\\n\r\nIf you are sure you gave this instruction for
+    your account termination, please ignore this warning and your request will be
+    processed shortly!  \r\n\\n\r\nThank You, \\n\r\nuwe.ac.uk IT Dept.  "
+  words:
+  - We
+  - received
+  - an
+  - instruction
+  - few
+  - hours
+  - ago
+  - to
+  - terminate
+  - your
+  - email
+  - account
+  - on
+  - uwe.ac.uk
+  - server.
+  - You
+  - need
+  - to
+  - confirm
+  - you
+  - made
+  - this
+  - request
+  - or
+  - we
+  - will
+  - continue
+  - with
+  - the
+  - request.
+  - But
+  - if
+  - you
+  - think
+  - it
+  - is
+  - an
+  - error,
+  - take
+  - action
+  - immediately
+  - to
+  - stop
+  - this
+  - process,
+  - else
+  - your
+  - email
+  - will
+  - be
+  - closed
+  - shortly.
+  - Click
+  - here
+  - to
+  - Stop
+  - shutdown.
+  - If
+  - you
+  - are
+  - sure
+  - you
+  - gave
+  - this
+  - instruction
+  - for
+  - your
+  - account
+  - termination,
+  - please
+  - ignore
+  - this
+  - warning
+  - and
+  - your
+  - request
+  - will
+  - be
+  - processed
+  - shortly!
+  - Thank
+  - You,
+  - uwe.ac.uk
+  - IT
+  - Dept.
+  wordsWithoutPunctuation:
+  - We
+  - received
+  - an
+  - instruction
+  - few
+  - hours
+  - ago
+  - to
+  - terminate
+  - your
+  - email
+  - account
+  - on
+  - uwe.ac.uk
+  - server
+  - You
+  - need
+  - to
+  - confirm
+  - you
+  - made
+  - this
+  - request
+  - or
+  - we
+  - will
+  - continue
+  - with
+  - the
+  - request
+  - But
+  - if
+  - you
+  - think
+  - it
+  - is
+  - an
+  - error
+  - take
+  - action
+  - immediately
+  - to
+  - stop
+  - this
+  - process
+  - else
+  - your
+  - email
+  - will
+  - be
+  - closed
+  - shortly
+  - Click
+  - here
+  - to
+  - Stop
+  - shutdown
+  - If
+  - you
+  - are
+  - sure
+  - you
+  - gave
+  - this
+  - instruction
+  - for
+  - your
+  - account
+  - termination
+  - please
+  - ignore
+  - this
+  - warning
+  - and
+  - your
+  - request
+  - will
+  - be
+  - processed
+  - shortly
+  - Thank
+  - You
+  - uwe.ac.uk
+  - IT
+  - Dept
+  uniqueWords:
+  - word: we
+    indices: 0000000018000000
+  - word: received
+    indices: 01000000
+  - word: an
+    indices: 0200000024000000
+  - word: instruction
+    indices: 0300000040000000
+  - word: few
+    indices: 04000000
+  - word: hours
+    indices: 05000000
+  - word: ago
+    indices: 06000000
+  - word: to
+    indices: 07000000110000002900000036000000
+  - word: terminate
+    indices: 08000000
+  - word: your
+    indices: 090000002e000000420000004a000000
+  - word: email
+    indices: 0a0000002f000000
+  - word: account
+    indices: 0b00000043000000
+  - word: on
+    indices: 0c000000
+  - word: uwe.ac.uk
+    indices: 0d00000052000000
+  - word: server
+    indices: 0e000000
+  - word: you
+    indices: 0f00000013000000200000003a0000003d00000051000000
+  - word: need
+    indices: 10000000
+  - word: confirm
+    indices: 12000000
+  - word: made
+    indices: 14000000
+  - word: this
+    indices: 150000002b0000003f00000047000000
+  - word: request
+    indices: 160000001d0000004b000000
+  - word: or
+    indices: 17000000
+  - word: will
+    indices: 19000000300000004c000000
+  - word: continue
+    indices: 1a000000
+  - word: with
+    indices: 1b000000
+  - word: the
+    indices: 1c000000
+  - word: but
+    indices: 1e000000
+  - word: if
+    indices: 1f00000039000000
+  - word: think
+    indices: 21000000
+  - word: it
+    indices: 2200000053000000
+  - word: is
+    indices: 23000000
+  - word: error
+    indices: 25000000
+  - word: take
+    indices: 26000000
+  - word: action
+    indices: 27000000
+  - word: immediately
+    indices: 28000000
+  - word: stop
+    indices: 2a00000037000000
+  - word: process
+    indices: 2c000000
+  - word: else
+    indices: 2d000000
+  - word: be
+    indices: 310000004d000000
+  - word: closed
+    indices: 32000000
+  - word: shortly
+    indices: 330000004f000000
+  - word: click
+    indices: 34000000
+  - word: here
+    indices: 35000000
+  - word: shutdown
+    indices: 38000000
+  - word: are
+    indices: 3b000000
+  - word: sure
+    indices: 3c000000
+  - word: gave
+    indices: 3e000000
+  - word: for
+    indices: 41000000
+  - word: termination
+    indices: 44000000
+  - word: please
+    indices: 45000000
+  - word: ignore
+    indices: 46000000
+  - word: warning
+    indices: 48000000
+  - word: and
+    indices: 49000000
+  - word: processed
+    indices: 4e000000
+  - word: thank
+    indices: 50000000
+  - word: dept
+    indices: 54000000
+  keyWords: 00000001000000000101010000010100000000000000000000000000000000000000000000000101010000000000000000000101010100000000000000000000000000000000000000000000000000000000010101
+  wordui: {fileID: 8560673467746634317, guid: 0f7adea3d238fb0408212977a3fbf8bd, type: 3}
+  lineLength: 1800
+  spaceWidth: 15.389223
+  lines:
+  - 'We received an instruction few hours ago to terminate your email account on '
+  - 'uwe.ac.uk server. '
+  - 'You need to confirm you made this request or we will continue with the request.
+    But '
+  - 'if you think it is an error, take action immediately to stop this process, else
+    your '
+  - 'email will be closed shortly. '
+  - 'Click here to Stop shutdown. '
+  - 'If you are sure you gave this instruction for your account termination, please
+    ignore '
+  - 'this warning and your request will be processed shortly! '
+  - 'Thank You, '
+  - 'uwe.ac.uk IT Dept. '
+  linesWithoutPunctuation:
+  - We received an instruction few hours ago to terminate your email account on
+  - 'uwe.ac.uk server. '
+  - 'You need to confirm you made this request or we will continue with the request.
+    But '
+  - 'if you think it is an error, take action immediately to stop this process, else
+    your '
+  - 'email will be closed shortly. '
+  - 'Click here to Stop shutdown. '
+  - 'If you are sure you gave this instruction for your account termination, please
+    ignore '
+  - 'this warning and your request will be processed shortly! '
+  - 'Thank You, '
+  - 'uwe.ac.uk IT Dept. '
+  splitLines:
+  - line:
+    - We
+    - received
+    - an
+    - instruction
+    - few
+    - hours
+    - ago
+    - to
+    - terminate
+    - your
+    - email
+    - account
+    - on
+  - line:
+    - uwe.ac.uk
+    - server.
+  - line:
+    - You
+    - need
+    - to
+    - confirm
+    - you
+    - made
+    - this
+    - request
+    - or
+    - we
+    - will
+    - continue
+    - with
+    - the
+    - request.
+    - But
+  - line:
+    - if
+    - you
+    - think
+    - it
+    - is
+    - an
+    - error,
+    - take
+    - action
+    - immediately
+    - to
+    - stop
+    - this
+    - process,
+    - else
+    - your
+  - line:
+    - email
+    - will
+    - be
+    - closed
+    - shortly.
+  - line:
+    - Click
+    - here
+    - to
+    - Stop
+    - shutdown.
+  - line:
+    - If
+    - you
+    - are
+    - sure
+    - you
+    - gave
+    - this
+    - instruction
+    - for
+    - your
+    - account
+    - termination,
+    - please
+    - ignore
+  - line:
+    - this
+    - warning
+    - and
+    - your
+    - request
+    - will
+    - be
+    - processed
+    - shortly!
+  - line:
+    - Thank
+    - You,
+  - line:
+    - uwe.ac.uk
+    - IT
+    - Dept.
+  splitLinesWithoutPunctuation:
+  - line:
+    - We
+    - received
+    - an
+    - instruction
+    - few
+    - hours
+    - ago
+    - to
+    - terminate
+    - your
+    - email
+    - account
+    - on
+  - line:
+    - uwe.ac.uk
+    - server
+  - line:
+    - You
+    - need
+    - to
+    - confirm
+    - you
+    - made
+    - this
+    - request
+    - or
+    - we
+    - will
+    - continue
+    - with
+    - the
+    - request
+    - But
+  - line:
+    - if
+    - you
+    - think
+    - it
+    - is
+    - an
+    - error
+    - take
+    - action
+    - immediately
+    - to
+    - stop
+    - this
+    - process
+    - else
+    - your
+  - line:
+    - email
+    - will
+    - be
+    - closed
+    - shortly
+  - line:
+    - Click
+    - here
+    - to
+    - Stop
+    - shutdown
+  - line:
+    - If
+    - you
+    - are
+    - sure
+    - you
+    - gave
+    - this
+    - instruction
+    - for
+    - your
+    - account
+    - termination
+    - please
+    - ignore
+  - line:
+    - this
+    - warning
+    - and
+    - your
+    - request
+    - will
+    - be
+    - processed
+    - shortly
+  - line:
+    - Thank
+    - You
+  - line:
+    - uwe.ac.uk
+    - IT
+    - Dept
